@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@jupyter-widgets/base": "^1.0 || ^2.0",
-    "mqtt": "^2.11.0",
+    "mqtt": "^4.2.1",
     "underscore": "^1.8.3",
     "webrtc-adapter": "^4.2.2",
     "html2canvas": "v1.0.0-alpha.12"
