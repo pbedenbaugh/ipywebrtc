@@ -63,7 +63,7 @@
     "mqtt": "^4.2.1",
     "underscore": "^1.8.3",
     "webrtc-adapter": "^4.2.2",
-    "html2canvas": "v1.0.0-alpha.12"
+    "html2canvas": "v1.0.0-rc.7"
   },
   "files": [
     "dist/",
