@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@jupyter-widgets/controls": "^1.4.0",
-    "@jupyterlab/services": "^2.0.3",
+    "@jupyterlab/services": "^5.2.4",
     "@types/chai": "^4.1.4",
     "@types/expect.js": "^0.3.29",
     "@types/mocha": "^8.0.3",
