@@ -28,7 +28,7 @@
     "watch:nbextension": "webpack --watch"
   },
   "devDependencies": {
-    "@jupyter-widgets/controls": "^1.4.0",
+    "@jupyter-widgets/controls": "^3.0.0",
     "@jupyterlab/services": "^5.2.4",
     "@types/chai": "^4.1.4",
     "@types/expect.js": "^0.3.29",
